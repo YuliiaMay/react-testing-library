@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-05-movies",
+  "name": "react-testing-library",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YuliiaMay.github.io/goit-react-hw-05-movies/",
+  "homepage": "https://YuliiaMay.github.io/react-testing-library/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/user-event": "^13.5.0",
@@ -21,7 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "jest",
     "eject": "react-scripts eject",
     "lint:js": "eslint src/**/*.{js,jsx}"
   },
@@ -42,9 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@testing-library/react": "^14.0.0",
-    "jest": "^27.5.1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-testing-library/static/css/main.b08b9eae.css",
-    "main.js": "/react-testing-library/static/js/main.f2a1780f.js",
+    "main.js": "/react-testing-library/static/js/main.de7f7838.js",
     "static/js/946.85d0cc74.chunk.js": "/react-testing-library/static/js/946.85d0cc74.chunk.js",
     "static/js/278.e739be5e.chunk.js": "/react-testing-library/static/js/278.e739be5e.chunk.js",
     "static/js/33.3c31b6e4.chunk.js": "/react-testing-library/static/js/33.3c31b6e4.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/default-movie.jpg": "/react-testing-library/static/media/default-movie.71253f31d01ef6cdd4cc.jpg",
     "index.html": "/react-testing-library/index.html",
     "main.b08b9eae.css.map": "/react-testing-library/static/css/main.b08b9eae.css.map",
-    "main.f2a1780f.js.map": "/react-testing-library/static/js/main.f2a1780f.js.map",
+    "main.de7f7838.js.map": "/react-testing-library/static/js/main.de7f7838.js.map",
     "946.85d0cc74.chunk.js.map": "/react-testing-library/static/js/946.85d0cc74.chunk.js.map",
     "278.e739be5e.chunk.js.map": "/react-testing-library/static/js/278.e739be5e.chunk.js.map",
     "33.3c31b6e4.chunk.js.map": "/react-testing-library/static/js/33.3c31b6e4.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.b08b9eae.css",
-    "static/js/main.f2a1780f.js"
+    "static/js/main.de7f7838.js"
   ]
 }
